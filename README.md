@@ -2,13 +2,13 @@
 
 > 一个专门保护大学生在暑期工、实习、兼职和零工场景中免受招聘陷阱、工资纠纷和现场被骗的 AI Skill。
 
-![Summer Job Guardian Cover](assets/hero-cover.jpg)
+![Summer Job Guardian Cover](assets/hero-cover-zh.jpg)
 
 ---
 
 ## 工作流总览
 
-![Workflow Diagram](assets/workflow-diagram.jpg)
+![Workflow Diagram](assets/workflow-diagram-zh.jpg)
 
 Summer Job Guardian 采用 7 阶段循环工作流，覆盖从求职前到事后维权的完整链路。
 
@@ -33,7 +33,7 @@ Summer Job Guardian 采用 7 阶段循环工作流，覆盖从求职前到事后
 
 ### 4. 到了现场发现不对：沉没成本决策框架 ⭐ 核心能力
 
-![Sunk Cost Framework](assets/sunk-cost-framework.jpg)
+![Sunk Cost Framework](assets/sunk-cost-framework-zh.jpg)
 
 这是大多数同类工具没有的能力。
 
@@ -50,7 +50,7 @@ Summer Job Guardian 采用 7 阶段循环工作流，覆盖从求职前到事后
 
 ### 5. 证据收集：录音、截图、聊天记录的操作手册
 
-![Evidence Collection Guide](assets/evidence-collection-guide.jpg)
+![Evidence Collection Guide](assets/evidence-collection-guide-zh.jpg)
 
 - **录音指导**：什么时候录、第一句话怎么说、6 个必须录到的关键问题
 - **截图/照片标准**：招聘页、聊天记录、支付凭证、合同每一页
