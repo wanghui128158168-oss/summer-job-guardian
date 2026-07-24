@@ -1,0 +1,4 @@
+interface:
+  display_name: "暑假工安全助手"
+  short_description: "帮助大学生规划并核验暑假工、实习、合同、收费与维权路径"
+  default_prompt: "使用 $summer-job-guardian 帮我评估这份暑假工，并给出核验和下一步行动。"
